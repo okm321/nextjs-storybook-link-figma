@@ -10,7 +10,7 @@ const meta = {
   args: {
     rounded: true,
     style: "filled",
-    children: "テキスト",
+    children: "ボタンテキスト",
   },
 } satisfies Meta<typeof Button>;
 
